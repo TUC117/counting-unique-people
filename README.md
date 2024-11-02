@@ -1,4 +1,4 @@
-# IE643-course-project
+# Counting Unique people in a movie clip
 
 This is the repo containing the code for **IE 643 Deep Learning - Theory and Practice Course Project**.
 
