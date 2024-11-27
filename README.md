@@ -10,7 +10,7 @@ Detect, Track and Count unique people or characters in a movie clip
 
 # Steps to run the code
 1) First install python and Git in your laptop.
-2) Dowmload/clone this repository on your laptop.
+2) Download/clone this repository on your laptop.
 3) Navigate to the repository downloaded.
 4) Now  run the ipynb file deploy_final.ipynb.
 5) Make shore that deploy_final.ipynb and data folder are in the same folder on your laptop.
