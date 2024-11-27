@@ -17,3 +17,5 @@ Detect, Track and Count unique people or characters in a movie clip
 6) On running the file if you get the error for any modules not installed download them,this might be the only error you might get.
 7) If the file deploy_final.ipynb ran succesfully in the output of the last cell of the ipynb file you will get a link.
 8) Please open the link and upload the video.
+
+# Hyperparameters
