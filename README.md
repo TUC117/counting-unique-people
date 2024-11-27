@@ -8,7 +8,7 @@ Detect, Track and Count unique people or characters in a movie clip
 ##### Member 1 : Trasula Umesh Karthikeya - 22B0913
 ##### Member 2 : Mariyala Venkata Sai Mukhesh - 22B0972
 
-# Steps ton run the code
+# Steps to run the code
 1) First install python and Git in your laptop.
 2) Dowmload/clone this repository on your laptop.
 3) Navigate to the repository downloaded.
